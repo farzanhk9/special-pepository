@@ -7,7 +7,7 @@ DATA_FILE = "mood_log.json"
 
 MOODS = {
     "1": "😊😊 Happy",
-    "2": "😐 Neutral",
+    "2": "😐😐 Neutral",
     "3": "😔 Sad",
     "4": "😡 Angry",
     "5": "😴 Tired",
